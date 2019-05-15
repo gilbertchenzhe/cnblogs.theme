@@ -8,9 +8,9 @@ Theme for https://clsn.cnblogs.com .
 运行`2.build.ps1`，打包`css`和`js`到`dist`目录。
 
 # 博客设置
-主题：`LessIsMore`
+选择，设置主题为：`LessIsMore`
 ```
-1、禁用模板默认CSS
+1、【博客园】->【设置】->【博客设置】，禁用模板默认CSS
 ```
 页首代码
 ```html
