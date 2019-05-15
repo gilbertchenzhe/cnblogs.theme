@@ -1,8 +1,9 @@
 # Cnblogs Theme
-Theme for https://clsn.cnblogs.com .
+Theme for https://gilbert.cnblogs.com .
 
 # 来源
-源自：https：//github.com/linianhui/cnblogs.theme
+源自：https://github.com/clsn-git/cnblogs.theme
+初始出处：https://github.com/linianhui/cnblogs.theme
 
 # 编译
 运行`2.build.ps1`，打包`css`和`js`到`dist`目录。
