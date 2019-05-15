@@ -17,9 +17,9 @@ Theme for https://gilbert.cnblogs.com .
 ```html
 <script type="text/javascript">$("#mobile-style").remove();</script>
 <link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
-<link href="//files.cnblogs.com/files/linianhui/lnh.cnblogs.css" rel="stylesheet"/>
+<link href="//files.cnblogs.com/files/gilbert/lnh.cnblogs.css" rel="stylesheet"/>
 ```
 页脚代码
 ```html
-<script type="text/javascript" src="//files.cnblogs.com/files/linianhui/lnh.cnblogs.js"></script>
+<script type="text/javascript" src="//files.cnblogs.com/files/gilbert/lnh.cnblogs.js"></script>
 ```
